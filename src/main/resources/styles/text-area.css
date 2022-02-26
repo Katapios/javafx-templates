@@ -1,0 +1,18 @@
+.text-input {
+    -fx-text-fill: #fafafa;
+    -fx-control-inner-background: #343434;
+    -fx-prompt-text-fill: #a1a1a1;
+}
+.button {
+    -fx-background-color: #E06249;
+    -fx-border-radius: 10;
+    -fx-padding: 10 20;
+}
+
+.button:hover {
+    -fx-translate-y: -5;
+}
+
+.button:pressed {
+    -fx-background-color: #B04BA0;
+}
